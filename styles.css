@@ -1,0 +1,36 @@
+ div{
+    text-align:initial;
+    font-size: 14px;
+    background-color: rgb(255, 246, 193);
+    border-radius: 8px;
+    margin: 40px 50px 40px 50px;
+    padding: 20px;
+    width: 650px;
+}
+h2{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+div input{
+    width: 350px;
+    height: 25px;
+    border-radius: 4px;
+    border-color: rgb(88, 198, 248);
+    background-color: rgb(250, 248, 157);
+    font-style: normal;
+
+}
+div a{
+    text-decoration: none;
+    background-color: rgb(250, 201, 38);
+    color: rgb(58, 44, 2);
+    padding: 10px 15px;
+    font-size: 15px;
+    border-radius: 8px;
+    margin: auto;
+}
+div a:hover{
+    background-color: rgb(255, 238, 1);
+    color: black;
+
+}
